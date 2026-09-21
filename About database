@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Introduction to Databases</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+            background-color: #f4f4f9;
+            color: #333;
+        }
+        header {
+            text-align: center;
+            padding: 10px;
+        }
+        h1 {
+            color: #2c3e50;
+        }
+        section {
+            margin-bottom: 20px;
+        }
+        .highlight {
+            background-color: #eaf2f8;
+            padding: 10px;
+            border-left: 4px solid #3498db;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 10px;
+        }
+        table, th, td {
+            border: 1px solid #aaa;
+        }
+        th, td {
+            padding: 8px;
+            text-align: left;
+        }
+        footer {
+            text-align: center;
+            margin-top: 30px;
+            font-size: 0.9em;
+            color: #555;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>📊 Introduction to Databases</h1>
+        <p>Understanding how data is stored, managed, and retrieved</p>
+    </header>
+
+    <section>
+        <h2>What is a Database?</h2>
+        <p>A <strong>database</strong> is an organized collection of data that can be easily accessed, managed, and updated. 
+        Databases are used in banking, e-commerce, healthcare, education, and almost every modern industry.</p>
+    </section>
+
+    <section>
+        <h2>Types of Databases</h2>
+        <ul>
+            <li><b>Relational Databases (SQL):</b> Store data in tables with rows and columns.</li>
+            <li><b>NoSQL Databases:</b> Store data in flexible formats like documents or key-value pairs.</li>
+            <li><b>Cloud Databases:</b> Hosted online for scalability and easy access.</li>
+        </ul>
+    </section>
+
+    <section>
+        <h2>Example: Customer Table</h2>
+        <div class="highlight">
+            <p>Here’s a simple table showing customer data in a relational database:</p>
+        </div>
+        <table>
+            <tr>
+                <th>CustomerID</th>
+                <th>Name</th>
+                <th>Email</th>
+                <th>Join Date</th>
+            </tr>
+            <tr>
+                <td>101</td>
+                <td>Jane Doe</td>
+                <td>jane@example.com</td>
+                <td>2023-05-12</td>
+            </tr>
+            <tr>
+                <td>102</td>
+                <td>John Smith</td>
+                <td>john@example.com</td>
+                <td>2023-06-01</td>
+            </tr>
+        </table>
+    </section>
+
+    <footer>
+        <p>Created as a simple HTML guide to databases 🌐</p>
+    </footer>
+</body>
+</html>
