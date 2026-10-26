@@ -6,7 +6,7 @@
     <title>Introduction to Databases</title>
     <style>
         body {
-            font-family: Arial, sans-serif;
+            font-family: Arial, new times roman;
             margin: 20px;
             background-color: #f4f4f9;
             color: #333;
@@ -48,7 +48,7 @@
 </head>
 <body>
     <header>
-        <h1>📊 Introduction to Databases</h1>
+        <h1>📊 INTRODUCTION TO DATABASES</h1>
         <p>Understanding how data is stored, managed, and retrieved</p>
     </header>
 
