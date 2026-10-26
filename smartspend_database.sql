@@ -21,9 +21,9 @@ CREATE TABLE IF NOT EXISTS expenses (
 INSERT INTO expenses
 (expense_name, category, amount, expense_date, payment_method)
 VALUES
-('Lunch', 'Food', 10000.00, '2026-10-14', 'Cash'),
-('Transport', 'Travel', 5000.00, '2026-10-14', 'Mobile Money'),
-('Internet', 'Bills', 30000.00, '2026-10-14', 'Mobile Money');
+('Lunch', 'Food', 20000.00, '2026-10-14', 'Cash'),
+('Transport', 'Travel', 6000.00, '2026-10-14', 'cash'),
+('Internet', 'Bills', 50000.00, '2026-10-14', 'Mobile Money');
 
 -- 5. Display all expenses
 SELECT * FROM expenses;
