@@ -6,7 +6,7 @@
     <title>Introduction to Databases</title>
     <style>
         body {
-            font-family: Arial, new times roman;
+            font-family: Calibri, new times roman;
             margin: 20px;
             background-color: #f4f4f9;
             color: #333;
@@ -54,7 +54,7 @@
 
     <section>
         <h2>What is a Database?</h2>
-        <p>A <strong>database</strong> is an organized collection of data that can be easily accessed, managed, and updated. 
+        <p>A <strong>Database</strong> is an organized collection of data that can be easily accessed, managed, and updated. 
         Databases are used in banking, e-commerce, healthcare, education, and almost every modern industry.</p>
     </section>
 
