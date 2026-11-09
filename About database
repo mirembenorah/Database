@@ -48,18 +48,18 @@
 </head>
 <body>
     <header>
-        <h1>📊 INTRODUCTION TO DATABASES</h1>
+        <h1>📊 Introduction to databases</h1>
         <p>Understanding how data is stored, managed, and retrieved</p>
     </header>
 
     <section>
-        <h2>What is a Database?</h2>
+        <h2>What is a database?</h2>
         <p>A <strong>Database</strong> is an organized collection of data that can be easily accessed, managed, and updated. 
         Databases are used in banking, e-commerce, healthcare, education, and almost every modern industry.</p>
     </section>
 
     <section>
-        <h2>Types of Databases</h2>
+        <h2>Types of databases</h2>
         <ul>
             <li><b>Relational Databases (SQL):</b> Store data in tables with rows and columns.</li>
             <li><b>NoSQL Databases:</b> Store data in flexible formats like documents or key-value pairs.</li>
@@ -74,10 +74,10 @@
         </div>
         <table>
             <tr>
-                <th>CustomerID</th>
-                <th>Name</th>
-                <th>Email</th>
-                <th>Join Date</th>
+                <th>customerID</th>
+                <th>name</th>
+                <th>email</th>
+                <th>join date</th>
             </tr>
             <tr>
                 <td>101</td>
